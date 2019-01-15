@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:latest",
+    "tslint-react"
+  ],
+  "jsRules": {},
+  "rules": {
+    "no-submodule-imports": false,
+    "no-var-requires": false,
+    "object-literal-sort-keys": false
+  },
+  "rulesDirectory": [],
+  "exclude": [
+    "node_modules"
+  ]
+}
